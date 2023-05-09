@@ -1,2 +1,2 @@
 # julistiasyafari-laravel
-Ok Bro
+index.php
