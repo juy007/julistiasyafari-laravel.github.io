@@ -1,2 +1,2 @@
 # julistiasyafari-laravel
-index.php
+index.html
